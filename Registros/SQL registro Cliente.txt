@@ -1,0 +1,60 @@
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1054885799,'Silvana','Alzate','Echeverry','calle 45 #89-14','F',3004568974,4569874,'siae@gmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1092464390,'Santiago','Arenas','Quiroga','calle 89 #56-96','M',3009678545,8595474,'sarequi@outlook.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1056135187,'Juan','Martin','Castaño','Mejia','calle 62 #49-42','M',3012596548,5654548,'jumacasme@gmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1056134391,'Mariana','Gallego','Quintana','calle 13 #63-36','F',3014778566,7895845,'magq@yahoo.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1056134534,'Sofia','Garcia','Velez','calle 15 #45-1','F',3004568745,4589547,'sgve@gmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('E',154865121,'Michael','Kenneth','Williams','calle 95 #22-9','M',3005789461,7895412,'mkwe@hotmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('E',789544123,'John','Arthur','Lithgow','Purits','calle 130 #100-63','M',3005698784,7521354,'jolp@gmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1054885812,'Maria','Antonia','Gonzalez','Lopez','calle 120 #63-74','F',3002635487,4569874,'magl@outlook.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1055760983,'Dylan','Grajales','Sanchez','calle 64 #12-85','M',3006932544,5698845,'dgs@gmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1061066169,'Thiago','Emmanuel','Herrera','Ortega','calle 19 #69-63','M',3002365984,5612356,'teho@hotmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1056134635,'Christopher','Hurtado','Galvez','calle 78 #76-12','M',3007845123,4587455,'chgq@outlook.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('E',785962541,'Taylor','Alison','Swift','Finlay','calle 63 #87-45','F',3008979542,1236548,'taswf@yahoo.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('E',845965321,'Dua','Lipa','Hadid','Forten','calle 41 #85-86','F',3005658489,7895421,'dlhfo@gmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('E',478456521,'Miguel','Angel','Gutierrez','Ramirez','calle 96 #13-45','M',3009658742,4569851,'magr@hotmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1020321044,'Samuel','Morales','Ocampo','calle 4 #12-26','M',3015974856,1236548,'smooca@gmail.com');
+
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1089626855,'Samuel','Ortiz','Santamaria','calle 2 #47-14','M',3006958475,8456123,'sosanta@outlook.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1056133936,'Daniel','Esteban','Osorio','Salazar','calle 79 #12-25','M',3006598574,9632545,'deosala@hotmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1054400932,'Sara','Lucia','Parra','Avila','calle 80 #86-94','F',3009874565,4212354,'slipavila@outlook.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('E',489489489,'Luis','Feliz','Montes','Martinez','calle 96 #94-57','M',3015623457,7845124,'lufemonmar@gmail.com');
+
+INSERT INTO cliente(k_idtipoc,k_idnumeroc,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,o_direccion,i_sexo,o_celular,o_telefono,o_correo)
+VALUES('C',1084059694,'Dilan','Andres','Rojas','Henry','calle 103 #54-68','M',3059875456,7895412,'diarhe@yahoo.com');

@@ -1,0 +1,200 @@
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 45 #78-17','recoje el paquete mediano',1);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 110 #72-17','deja el paquete mediano',1);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13 # 39-49','recoje el paquete mediano',2);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#76-17','deja el paquete mediano',2);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13 # 39-49','viene con el resivo de recibido',2);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 14 # 45-98','recoje el paquete pequeño',3);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 95#85-43','deja el paquete pequeño',3);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#63-85','recoje el paquete grande',4);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 110 #80-96','deja el paquete grande',4);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#63-85','viene con el resivo de recibido',4);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 75#78-96','recoje el paquete mediano',5);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#85-89','deja el paquete mediano',5);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#56-85','recoje el paquete pequeño',6);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 150#72-25','deja el paquete pequeño',6);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#56-85','viene con el resivo de recibido',6);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#72-96','recoje el paquete grande',7);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 80#86-65','deja el paquete grande',7);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 65#56-75','recoje el paquete mediano',8);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#80-96','deja el paquete mediano',8);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 65#56-75','viene con el resivo de recibido',8);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 78#17-65','recoje el paquete grande',9);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 10#76-53','deja el paquete grande',9);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#89-63','recoje el paquete grande',10);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 165#7-96','deja el paquete grande',10);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#89-63','viene con el resivo de recibido',10);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#45-63','recoje el paquete pequeño',11);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#84-32','deja el paquete pequeño',11);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#87-15','recoje el resivo',12);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 159#45-63','lo paga',12);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#87-15','trae recibo de pago',12);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 23#45-41','recoje el documento',13);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 30#47-63','lo entrega',13);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#78-21','recoje el paquete grande',14);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 80#75-63','deja el paquete grande',14);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#78-21','viene con el resivo de recibido',14);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 10#74-63','recoje el paquete pequeño',15);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#65-45','deja el paquete pequeño',15);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 45#42-96','recoje el paquete mediano',16);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 69#14-23','deja el paquete mediano',16);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 45#42-96','viene con el recivo de recibido',16);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 96#47-63','recoje el paquete pequeño',17);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 54#12-63','deja elppaquete pequeño',17);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#75-63','recoje el resivo',18);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 35#40-63','lo paga',18);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#75-63','trae recibo de pago',18);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 23#86-36','recoje el paquete pequeño',19);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 74#96-21','deja el paquete pequeño',19);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 84#95-34','recoje el paquete grande',20);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 71#52-74','deja el paquete grande',20);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 84#95-34','viene con el resivo de recibido',20);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 45 #78-17','recoje el paquete mediano',21);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 110 #72-17','deja el paquete mediano',21);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13 # 39-49','recoje el paquete mediano',22);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#76-17','deja el paquete mediano',22);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13 # 39-49','viene con el resivo de recibido',22);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 14 # 45-98','recoje el paquete pequeño',23);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 95#85-43','deja el paquete pequeño',23);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#63-85','recoje el paquete grande',24);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 110 #80-96','deja el paquete grande',24);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#63-85','viene con el resivo de recibido',24);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 75#78-96','recoje el paquete mediano',25);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#85-89','deja el paquete mediano',25);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#56-85','recoje el paquete pequeño',26);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 150#72-25','deja el paquete pequeño',26);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#56-85','viene con el resivo de recibido',26);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#72-96','recoje el paquete grande',27);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 80#86-65','deja el paquete grande',27);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 65#56-75','recoje el paquete mediano',28);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#80-96','deja el paquete mediano',28);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 65#56-75','viene con el resivo de recibido',28);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 78#17-65','recoje el paquete grande',29);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 10#76-53','deja el paquete grande',29);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#89-63','recoje el paquete grande',30);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 165#7-96','deja el paquete grande',30);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#89-63','viene con el resivo de recibido',30);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#45-63','recoje el paquete pequeño',31);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#84-32','deja el paquete pequeño',31);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#87-15','recoje el resivo',32);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 159#45-63','lo paga',32);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#87-15','trae recibo de pago',32);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 23#45-41','recoje el documento',33);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 30#47-63','lo entrega',33);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#78-21','recoje el paquete grande',34);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 80#75-63','deja el paquete grande',34);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 26#78-21','viene con el resivo de recibido',34);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 10#74-63','recoje el paquete pequeño',35);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 13#65-45','deja el paquete pequeño',35);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 45#42-96','recoje el paquete mediano',36);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle69#14-23','deja el paquete mediano',36);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 45#42-96','viene con el resivo de recibido',36);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 96#47-63','recoje el paquete pequeño',37);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 54#12-63','deja el paquete pequeño',37);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#75-63','recoje el resivo',38);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 35#40-63','lo paga',38);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 89#75-63','trae recibo de pago',38);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 23#86-36','recoje el paquete pequeño',39);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 74#96-21','deja el paquete pequeño',39);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 84#95-34','recoje el paquete grande',40);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 71#52-74','deja el paquete grande',40);
+INSERT INTO indicaciones(o_direccion,n_detalle,k_idservicio)
+VALUES ('calle 84#95-34','viene con el resivo de recibido',40);

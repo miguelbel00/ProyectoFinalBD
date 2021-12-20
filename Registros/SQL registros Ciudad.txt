@@ -1,0 +1,4 @@
+INSERT INTO ciudad(k_codpostal,n_nombre,t_comision)
+VALUES (118942,'Bogota','0.2');
+INSERT INTO ciudad(k_codpostal,n_nombre,t_comision)
+VALUES (1500,'Tunja','0.5');
