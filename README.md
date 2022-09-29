@@ -1,11 +1,6 @@
 # ProyectoFinalBD
-<p>Este fue nuestro proyecto final para Bases de Datos</p>
+<p>Este fue mi proyecto final para Bases de Datos</p>
 
-### Miembros
-- Miguel Beltran
-- Cristian Casas
-- Sebastian Gonzalez
-- Hanna Sarmiento
 
 ### Screenshots
 
