@@ -1,0 +1,68 @@
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1000831233,'Juan','Sebastian','Ospina','Valderrama','2000-05-20','M',3143296770,4895661,'jsov@gmail.com','Colombia','S','M','M','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1000458695,'Ana','Maria','Morales','Gonzalez','2001-08-02','F',3123957951,6521364,'ammg@hotmail.com','Colombia','S','M','M','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1000089654,'Maria','Camila','Ramirez','Solares','2000-04-28','F',3124685404,7123548,'mcrs@outlook.com','Colombia','S','B','P','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1020869558,'Kevin','Andres','Forero','Guaitero','2002-09-15','M',3209643562,8632514,'kafg@gmail.com','Colombia','S','M','G','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('E',79848568,'Klauss','Steiner','Budenbender','1999-08-22','M',3143403478,8645237,'ksb@outlook.com','Alemania','S','M','M','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',53697454,'Erik','Gonzales','Gutierrez','2001-01-10','M',3125645010,4565894,'egg@hotmail.com','Colombia','N','B','P','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1030085663,'Erik','Andres','Gonzalez','Molina','1998-04-24','M',3178871976,4565894,'egm@gmail.com','Colombia','S','M','G','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',89562489,'Valentina','Camelo','Valera','1981-09-05','F',3002003260,9547123,'vcv@hotmail.com','Colombia','S','M','M','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',48959632,'Leonardo','Esteban','Castro','Torres','1994-08-20','M',3002634250,9652341,'lect@yahoo.com','Colombia','S','M','G','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('E',256554545,'Fank','Walter','Steinmeier','1997-09-01','M',3117579555,8645237,'fws@hotmail.com','Alemania','S','M','G','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1089562344,'Natalie','Lopez','Gutierrez','2002-03-08','F',3003075208,7856412,'nlg@gmail.com','Colombia','N','B','P','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',86594253,'Maria','Fernanda','Garzon','Romero','1992-06-05','F',3214403676,6521364,'mfgr@hotmail.com','Colombia','N','B','D','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('E',256774545,'Eliana','Nguyen','Figueroa','1991-12-03','F',3154861174,3654889,'eng@outlook.com','Japon','S','B','D','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('E',256554590,'Enrique','Miguel','Iglesias','Preysler','1999-10-26','M',3185304682,5478963,'emip@outlook.com','España','S','M','G','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('E',268554545,'Hector','Eduardo','Reglero','Montaner','1996-11-23','M',3209998174,1547863,'herm@gmail.com','Venezuela','N','B','P','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1089562361,'Juan','Pablo','Campo','Tellez','2000-02-23','M',3152427525,4196523,'jpct@gmail.com','Colombia','S','M','M','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1084533445,'Tatiana','Diaz','Lopez','2000-07-05','F',3227706155,4789565,'tdl@hotmail.com','Colombia','S','B','P','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1089567864,'Michael','Engred','Mejia','2001-11-19','M',3222687077,3695872,'mem@hotmail.com','Colombia','S','B','D','B');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('E',289564545,'Carlos','Almenar','Otero','2000-10-13','M',3013313752,5632548,'cao@gmail.com','Venezuela','N','B','P','T');
+
+INSERT INTO mensajero(k_idtipo,k_idnumero,n_primernombre,n_segundonombre,n_primerapellido,n_segundoapellido,f_nacimiento,i_sexo,o_celular,o_telefono,o_correo,n_nacionalidad,i_seguridadsocial,i_mediotransporte,i_tipotransporte,i_tipociudad)
+VALUES('C',1085963444,'Michael','Julian','Gonzalez','Rodriguez','2000-09-15','M',3167585294,4565894,'mjgr@gmail.com','Colombia','S','M','G','T');
+
+
+
+
+
+
+
+
+

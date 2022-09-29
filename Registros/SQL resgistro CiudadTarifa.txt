@@ -1,0 +1,16 @@
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(1,118942);
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(1,1500);
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(2,118942);
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(2,1500);
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(3,118942);
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(3,1500);
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(4,118942);
+INSERT INTO  ciudad_tarifa(k_idtarifa,k_codpostal)
+VALUES(4,1500);

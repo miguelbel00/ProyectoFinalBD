@@ -1,0 +1,219 @@
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','C',1000831233);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','C',1000831233);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','C',1000831233);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','C',1000831233);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','C',1000831233);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','C',1000831233);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','C',1000831233);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','L','C',1000458695);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','W','C',1000458695);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','V','C',1000458695);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','D','C',1000458695);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','C',1000089654);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','C',1000089654);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','C',1000089654);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','C',1000089654);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','C',1000089654);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','C',1000089654);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','C',1000089654);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','C',1020869558);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','C',1020869558);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','C',1020869558);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','C',1020869558);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','C',1020869558);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','C',1020869558);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','C',1020869558);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','M','E',79848568);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','J','E',79848568);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','S','E',79848568);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','C',53697454);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','C',53697454);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','C',53697454);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','C',53697454);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','C',53697454);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','C',53697454);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','C',53697454);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','L','C',1030085663);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','W','C',1030085663);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','V','C',1030085663);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','D','C',1030085663);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','C',89562489);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','C',89562489);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','C',89562489);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','C',89562489);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','C',89562489);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','C',89562489);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','C',89562489);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','C',48959632);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','C',48959632);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','C',48959632);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','C',48959632);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','C',48959632);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','C',48959632);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','C',48959632);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','L','E',256554545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','W','E',256554545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','V','E',256554545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','D','E',256554545);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','L','C',1089562344);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','W','C',1089562344);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','V','C',1089562344);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','D','C',1089562344);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','C',86594253);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','C',86594253);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','C',86594253);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','C',86594253);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','C',86594253);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','C',86594253);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','C',86594253);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','L','E',256774545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','M','E',256774545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','W','E',256774545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','J','E',256774545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','V','E',256774545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','S','E',256774545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','18:00:00','D','E',256774545);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','M','E',256554590);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','J','E',256554590);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','S','E',256554590);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','M','E',268554545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','J','E',268554545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','S','E',268554545);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','L','C',1089562361);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','W','C',1089562361);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','V','C',1089562361);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','D','C',1089562361);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','L','C',1084533445);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','W','C',1084533445);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','V','C',1084533445);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','D','C',1084533445);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','L','C',1089567864);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','W','C',1089567864);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','V','C',1089567864);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','D','C',1089567864);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('12:00:00','18:00:00','L','E',289564545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('12:00:00','18:00:00','W','E',289564545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('12:00:00','18:00:00','V','E',289564545);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('12:00:00','18:00:00','D','E',289564545);
+
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','M','C',1085963444);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','J','C',1085963444);
+INSERT INTO horario(v_horainicial,v_horafinal,i_dia,k_idtipo,k_idnumero)
+VALUES('6:00:00','12:00:00','S','C',1085963444);

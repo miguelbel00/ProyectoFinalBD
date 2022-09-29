@@ -1,0 +1,11 @@
+INSERT INTO tarifa(v_tarifapaquete, i_tipopaquete)
+VALUES (5000, 'D');
+
+INSERT INTO tarifa(v_tarifapaquete, i_tipopaquete)
+VALUES (7500, 'P');
+
+INSERT INTO tarifa(v_tarifapaquete, i_tipopaquete)
+VALUES (10000, 'M');
+
+INSERT INTO tarifa(v_tarifapaquete, i_tipopaquete)
+VALUES (12500, 'G');
