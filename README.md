@@ -1,4 +1,4 @@
-# ProyectoFinalBD
+# ProyectoFinalBD - Aplicacion de Mensajeria Tipo Rappi
 <p>Este fue mi proyecto final para Bases de Datos</p>
 
 
